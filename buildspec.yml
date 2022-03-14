@@ -4,4 +4,4 @@ phases:
 
 build:
     commands:
-	./main/buid.sh
+	-./main/buid.sh
