@@ -2,10 +2,6 @@ version: 0.2
 
 phases:
 
-  install:
-    runtime-versions:
-      go: 1.17.6
-
 build:
     commands:
--	./buid.sh
+	./main/buid.sh
