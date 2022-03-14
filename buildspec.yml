@@ -8,5 +8,4 @@ phases:
 
 build:
     commands:
--	ls
 -	./buid.sh
