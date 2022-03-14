@@ -3,5 +3,5 @@ version: 0.2
 phases:
 
 build:
-    command:
-	-./main/buid.sh
+    commands:
+	- ./main/buid.sh
